@@ -117,3 +117,10 @@ My name is Ram Swaroop. I am an app developer and a tech aficionado from India. 
 This is my first jQuery Plugin and I hope you all like it. You are free to make more improvements to the code by sending a pull-request.
 
 If my plugin helped you or unlikely for any issues tweet me [@ramswarooppatra](https://twitter.com/ramswarooppatra), will be happy to hear from you.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
